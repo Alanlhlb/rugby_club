@@ -1,4 +1,4 @@
-# Rugby Club Management App 🏉
+# Rugby Club Management App 1🏉
 
 一個專為橄欖球隊設計的全功能管理應用程式，旨在簡化球隊管理、球員追蹤和比賽記錄。
 
