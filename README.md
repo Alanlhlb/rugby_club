@@ -54,3 +54,9 @@
    ```bash
    flutter run
    ```
+
+ **運行 **
+git clone https://github.com/Alanlhlb/rugby_club.git
+cd rugby_club
+flutter pub get
+flutter run
